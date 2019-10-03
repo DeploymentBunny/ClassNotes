@@ -1,0 +1,19 @@
+1. Installera o Konfigurera DC01 med hjälp av POSH
+2. Installera o Konfigurera DC02 med hjälp av POSH o lite UI
+3. Installera MGMT01 med hjälp av POSH
+- Installera WAC på MGMT01 o genomför labbarna
+
+Detta är Modulerna 1,2,3,4 och 5
+
+När detta är klart, så...
+
+Logga in på MGMT01 via Enhanced Session, dvs RDP via Hyper-V Manager
+Validera sedan att du med hjälp av /RestrictedAdmin kan ansluta till DC01 o DC02 från MGMT01, om inte så kanske något ska konfigureras på DC01 och DC02?
+
+Validera att du med hjälp av /RestrictedGuard kan ansluta till DC01 o DC02 från MGMT01, om inte så kanske något ska konfigureras på DC01 och DC02?
+
+Extrauppgift efter Module 6
+Skriv ett POSH script som samlar in följande från samtliga dina system i AD:et
+- Servernamn
+- ReliabilityIndex
+

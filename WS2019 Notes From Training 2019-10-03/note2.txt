@@ -1,0 +1,10 @@
+Efter att ditt cluster är uppe:
+- Använd Cluster Performance History CMDlets, kolla in msft docs för sample
+- Starta om ditt cluster, en nod i taget, använd get-storagejob så att det INTE finns några jobb
+- Kör valideringen interaktivt, när det finns LAST på ditt kluster, observera att det GÅR att göra även när det finns saker på ditt kluster, OCH att det ser lite annorlunda ut
+
+https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/performance-history-scripting
+
+- Lägg till i Windows Admin Center, kolla in hur det ser ut i vyn för HCI Kluster
+
+

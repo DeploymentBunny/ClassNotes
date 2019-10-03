@@ -1,0 +1,16 @@
+- Azure Backup - SCDPM
+- Azure Site Recovery Services - SCVMM
+- Azure Monitor - SCOM
+- Azure File Sync - WS
+-- File Server Migration Tool - WS
+- ATP - Defender
+
+- Intune - ConfigMgr
+
+Module 16
+PowerShell DSC
+
+
+how to perform what we need to perform.
+what needs to be done and not how it needs to be done.
+

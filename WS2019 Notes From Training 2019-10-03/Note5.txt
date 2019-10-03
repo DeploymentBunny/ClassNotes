@@ -1,0 +1,6 @@
+1. Ladda hem ISO (eller använd den som finns i C:\Setup\ISO)
+2. Installera OSDBuilder (Install-Module OSDBuilder)
+3. "mounta" din ISO
+4. Kör Import-OSMedia, välj WS2019 datacenter
+5. Kör Update-OSMedia -Download -Execute
+6. Använd WIM2VHD.ps1 för att skapa en 80GB VHDX file

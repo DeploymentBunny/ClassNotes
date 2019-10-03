@@ -1,0 +1,11 @@
+Det där med data....och det där med configuration, och sånt
+
+
+
+Kör scriptet jag visade i "pressure mode" mot
+- Din laptop du sitter på
+- Din host du jobbar med
+- En VM du har (MGMT01)
+-- OBS!!!, Du måste skapa en NY disk till MGMT01, den ska INTE vara dynamisk, den MÅSTE vara fixed, annars blir mätresultatet = ankbajs...
+
+https://github.com/TrueSec-Infra/Public/tree/master/Invoke-TSxDiskSpd
