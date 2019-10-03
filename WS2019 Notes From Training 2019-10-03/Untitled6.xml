@@ -1,0 +1,7 @@
+﻿<Settings>
+ <Computers>
+  <Computer Name="HOST001">
+   <Mac1Addr>001501020304</Mac1Addr>
+  </Computer>
+ </Computers>
+</Settings>
