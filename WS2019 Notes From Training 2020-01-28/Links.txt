@@ -20,6 +20,7 @@ https://www.powershellgallery.com/packages/NtpTime/1.1
 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/add-computer?view=powershell-5.1
 https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-how-to-enable-network-unlock
 https://docs.microsoft.com/en-us/powershell/module/bitlocker/backup-bitlockerkeyprotector?view=win10-ps
+https://devblogs.microsoft.com/oldnewthing/20190723-00/?p=102727
 
 
 
