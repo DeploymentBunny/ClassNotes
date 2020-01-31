@@ -22,6 +22,8 @@ https://docs.microsoft.com/en-us/windows/security/information-protection/bitlock
 https://docs.microsoft.com/en-us/powershell/module/bitlocker/backup-bitlockerkeyprotector?view=win10-ps
 https://devblogs.microsoft.com/oldnewthing/20190723-00/?p=102727
 https://docs.microsoft.com/en-us/windows-server/storage/storage-migration-service/migrate-data
+https://docs.microsoft.com/en-us/windows/configuration/ue-v/uev-getting-started
+https://gallery.technet.microsoft.com/StickyNotes-3705fd87
 
 
 
