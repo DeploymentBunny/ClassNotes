@@ -1,0 +1,10 @@
+DC, DHCP, DNS
+NLB, ADFS, CA
+RRAS = PowerShell, s2sVPN
+IIS
+DFS, File, Print, DDD, ISCI, 
+WSUS
+S2D, 10x 30x-100x 13.8
+RDS
+
+
